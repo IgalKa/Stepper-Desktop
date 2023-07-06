@@ -60,7 +60,7 @@ we can then proceed to exectue the flow, activating the execution of each step w
 * The execution progress will update at the lower part of the screen.
 * It is possible to click on each completed step in the table to view its specific execution data, as well as the full flow execution progress.
 * Once the flow finishes its execution, it is possible to rerun the flow or apply continuation (if available) by the respective buttons that become available.
-![Execution screen](https://github.com/IgalKa/Stepper-Desktop/blob/master/gifs/Execution-screen.gif))
+![Execution screen](https://github.com/IgalKa/Stepper-Desktop/blob/master/gifs/Execution-screen.gif)
 
 # Executions history screen
 * This screen allows you to view all past completed executions
