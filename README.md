@@ -48,6 +48,7 @@ we can then proceed to exectue the flow, activating the execution of each step w
 * This screen allows you to view all the available flows currently loaded into the system.
 * View the flows full definition information by selecting a specific flow from the table.
 * Select the desired flow for execution and click on "Execute flow" to proceed to the execution screen
+![Definition screen](gifs\Definition-screen.gif)
 
 
 # Flows execution screen
@@ -59,18 +60,20 @@ we can then proceed to exectue the flow, activating the execution of each step w
 * The execution progress will update at the lower part of the screen.
 * It is possible to click on each completed step in the table to view its specific execution data, as well as the full flow execution progress.
 * Once the flow finishes its execution, it is possible to rerun the flow or apply continuation (if available) by the respective buttons that become available.
+![Execution screen](gifs\Execution-screen.gif)
 
 # Executions history screen
 * This screen allows you to view all past completed executions
 * Select a flow in the table to view its full data execution (it is possible to select each step of a flow).
 * It is possible to rerun the selected flow by clicking on the rerun button.
 * If the flow have a defined continuation it is possible to apply the continuation by clicking on "Continuation options"
+![History screen](gifs\History-screen.gif)
 
 # Statistics screen
 * This page allows you to view the statistics of past executions.
 * View how many times and how much time on average it took for each step/flow to execute
 * View the statistics data in graph view by clicking on the buttons at the bottom. 
-
+![Statistics screen](gifs\Statistics-screen.gif)
 
 ## Authors
 
